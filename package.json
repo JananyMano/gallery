@@ -16,6 +16,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "e2e": "cypress open",
+    "coverage": "test -- --coverage",
     "record": "cypress run --record --key 5ebeda50-7c01-4fa8-9a83-b940137e5a93",
     "eject": "react-scripts eject"
   },
@@ -37,6 +38,7 @@
   "devDependencies": {
     "@types/jest": "^26.0.0",
     "cypress": "^4.8.0",
+    "istanbul": "^0.4.5",
     "react-test-renderer": "^16.13.1"
   }
 }

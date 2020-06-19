@@ -4,11 +4,15 @@
 /node_modules
 /.pnp
 .pnp.js
+
+# api
 /src/api
-cypress.json
+
+# continuous integration travis
 
 # testing
 /coverage
+cypress.json
 
 # production
 /build
