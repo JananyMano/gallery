@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It allows user to look for specific pictures. You can type some keywords in the searchbar and see a list of pics.
 
 [![Inline docs](http://inch-ci.org/github/JananyMano/gallery.svg?branch=master)](http://inch-ci.org/github/JananyMano/gallery)
+[![Build Status](https://travis-ci.com/JananyMano/gallery.svg?branch=master)](https://travis-ci.com/JananyMano/gallery)
 
 ## End-to-end Test with Cypress
 
