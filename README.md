@@ -4,7 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [![Inline docs](http://inch-ci.org/github/JananyMano/gallery.svg?branch=master)](http://inch-ci.org/github/JananyMano/gallery)
 [![Build Status](https://travis-ci.com/JananyMano/gallery.svg?branch=master)](https://travis-ci.com/JananyMano/gallery)
-[![HitCount](http://hits.dwyl.com/JananyMano/gallery.svg)](http://hits.dwyl.com/JananyMano/gallery)
 
 
 ## End-to-end test with Cypress
