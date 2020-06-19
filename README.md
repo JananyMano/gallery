@@ -4,9 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [![Inline docs](http://inch-ci.org/github/JananyMano/gallery.svg?branch=master)](http://inch-ci.org/github/JananyMano/gallery)
 [![Build Status](https://travis-ci.com/JananyMano/gallery.svg?branch=master)](https://travis-ci.com/JananyMano/gallery)
-[![coverage](https://codecov.io/gh/JananyMano/gallery/branch/master/graph/badge.svg)](https://codecov.io/gh/JananyMano/gallery)
 [![HitCount](http://hits.dwyl.com/JananyMano/gallery.svg)](http://hits.dwyl.com/JananyMano/gallery)
-[![Node version](https://img.shields.io/node/v/[NPM-MODULE-NAME].svg?style=flat)](http://nodejs.org/download/)
 
 
 ## End-to-end test with Cypress
