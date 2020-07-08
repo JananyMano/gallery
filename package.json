@@ -18,6 +18,7 @@
     "test": "react-scripts test",
     "test:coverage": "npm test -- --coverage --watchAll=false",
     "test:badges": "npm run test:coverage  && jest-coverage-badges",
+    "make-badges": "node_modules/.bin/jest-badges-readme",
     "e2e": "cypress open",
     "coverage": "test -- --coverage",
     "record": "cypress run --record --key 5ebeda50-7c01-4fa8-9a83-b940137e5a93",
@@ -26,7 +27,7 @@
   "jest": {
     "coverageReporters": [
       "text-summary",
-      "json-summary", 
+      "json-summary",
       "text",
       "lcov"
     ]
@@ -47,6 +48,7 @@
     ]
   },
   "devDependencies": {
+    "@olavoparno/jest-badges-readme": "^1.5.0",
     "@types/jest": "^26.0.0",
     "cypress": "^4.8.0",
     "istanbul": "^0.4.5",
