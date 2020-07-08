@@ -12,6 +12,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![Lines](./coverage/badge-lines.svg)
 ![Statements](./coverage/badge-statements.svg)
 
+<p><img src='./coverage/badge-branches.svg'></p>
+<p><img src='./coverage/badge-functions.svg'></p>
+<p><img src='./coverage/badge-lines.svg'></p>
+<p><img src='./coverage/badge-statements.svg'></p>
+
+
 ## End-to-end test with Cypress
 
 ![](App.spec.js.gif)
