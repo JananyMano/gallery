@@ -1,4 +1,4 @@
-# Welcome on Gallery
+# Welcome on Galleryy
 [![HitCount](http://hits.dwyl.com/anna-taway/anna-taway/gallery.svg)](http://hits.dwyl.com/anna-taway/anna-taway/gallery)
 
 
