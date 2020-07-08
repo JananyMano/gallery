@@ -7,8 +7,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [![Build Status](https://travis-ci.com/anna-taway/gallery.svg?branch=master)](https://travis-ci.com/anna-taway/gallery)
 
-[![codecov](https://codecov.io/gh/anna-taway/gallery/branch/master/graph/badge.svg)](https://codecov.io/gh/anna-taway/gallery)
-
+![Branches](./coverage/badge-branches.svg)
+![Functions](./coverage/badge-functions.svg)
+![Lines](./coverage/badge-lines.svg)
+![Statements](./coverage/badge-statements.svg)
 
 ## End-to-end test with Cypress
 
