@@ -21,7 +21,9 @@
     "eject": "react-scripts eject"
   },
   "jest": {
-    "coverageReporters": ["text-summary"]
+    "coverageReporters": [
+      "text-summary"
+    ]
   },
   "eslintConfig": {
     "extends": "react-app"
