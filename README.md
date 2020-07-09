@@ -1,12 +1,9 @@
-# Welcome on Galleryy
+# Welcome on Gallery
 [![HitCount](http://hits.dwyl.com/anna-taway/anna-taway/gallery.svg)](http://hits.dwyl.com/anna-taway/anna-taway/gallery)
-
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It allows user to look for specific pictures. You can type some keywords in the searchbar and see a list of pics.
 
 [![Build Status](https://travis-ci.com/anna-taway/gallery.svg?branch=master)](https://travis-ci.com/anna-taway/gallery)
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It allows user to look for specific pictures. You can type some keywords in the searchbar and see a list of pics.
 
 | Statements | Branches | Functions | Lines |
 | -----------|----------|-----------|-------|
